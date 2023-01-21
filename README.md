@@ -5,3 +5,9 @@
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&width=435&lines=FULL+STACK+DEVELOPER" />
 </div>
+
+<div width="100%" display="flex">
+<h3 align="left">- I'm a Full Stack Web Developer specially in MERN stack 📦, my main focuses on writing clean and efficient code 👨‍💻</h3>
+<h3 align="left">- Currently looking for a new opprtunity 🤖</h3>
+</div>
+<br/>
