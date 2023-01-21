@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Satnam Singh
 
 <!--
 **TechRandhawa/techrandhawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
