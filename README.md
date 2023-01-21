@@ -12,3 +12,36 @@
 <h3 align="left">→ Currently looking for a new opprtunity 🤖</h3>
 </div>
 <br/>
+
+## 🙋‍♂️ About Me
+
+<div>
+
+<p aling="left" width="48%" height="300">
+
+- 🌱 Learnt **Full Stack Web Development from Coursera & YouTube**
+
+- 👯 I’m looking to work as **Full Stack Web Developer**
+
+- 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/TechRandhawa?tab=repositories)**
+
+- 📫 How to reach me **sp.srp1999@gmail.com**
+
+- 🔭 Know more about me **[Portfolio](https://techrandhawa.github.io/)**
+
+- 👨‍🎓 Check out my **[Sonu_Prasad_Resume.pdf](https://firebasestorage.googleapis.com/v0/b/my-cv-portfolio.appspot.com/o/resume%2FSatnamSingh.pdf?alt=media&token=18661a67-c0b8-4150-b12a-82e1ffd45e7e)**
+
+
+
+- ⚡ Fun fact **I love Learning New Things**
+
+ </p>
+ 
+ 
+
+ <!--  <img aling="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="48%" height="300" /> -->
+
+ 
+ </div>
+
+<!----------------------------------------------------- Languages and Tools --------------------------------------------------------->
