@@ -29,7 +29,7 @@
 
 - 🔭 Know more about me **[Portfolio](https://techrandhawa.github.io/)**
 
-- 👨‍🎓 Check out my **[Sonu_Prasad_Resume.pdf](https://firebasestorage.googleapis.com/v0/b/my-cv-portfolio.appspot.com/o/resume%2FSatnamSingh.pdf?alt=media&token=18661a67-c0b8-4150-b12a-82e1ffd45e7e)**
+- 👨‍🎓 Check out my **[Satnam_Singh_Resume.pdf](https://firebasestorage.googleapis.com/v0/b/my-cv-portfolio.appspot.com/o/resume%2FSatnamSingh.pdf?alt=media&token=18661a67-c0b8-4150-b12a-82e1ffd45e7e)**
 
 
 
