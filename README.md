@@ -25,7 +25,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/TechRandhawa?tab=repositories)**
 
-- 📫 How to reach me **sp.srp1999@gmail.com**
+- 📫 How to reach me **satnamrandhawa388@gmail.com**
 
 - 🔭 Know more about me **[Portfolio](https://techrandhawa.github.io/)**
 
