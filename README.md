@@ -68,7 +68,7 @@
    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
    <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-   <img src="https://www.gstatic.com/devrel-devsite/prod/veced1430215d0a0c094ac0570f79b1e47a9902cf6b60d19f36522e018b212f9e/firebase/images/lockup.svg" width="96" heigth="18"  align="center" alt="firebase"/>
+   <img src="https://www.gstatic.com/devrel-devsite/prod/veced1430215d0a0c094ac0570f79b1e47a9902cf6b60d19f36522e018b212f9e/firebase/images/lockup.svg" width="96" heigth="18" text-color="#0000" align="center" alt="firebase"/>
    <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
  </div>
