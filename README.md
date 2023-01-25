@@ -31,21 +31,20 @@
 
 - 👨‍🎓 Check out my **[Satnam_Singh_Resume.pdf](https://firebasestorage.googleapis.com/v0/b/my-cv-portfolio.appspot.com/o/resume%2FSatnamSingh.pdf?alt=media&token=18661a67-c0b8-4150-b12a-82e1ffd45e7e)**
 
-
-
-- ⚡ Fun fact **I love Learning New Things**
+* ⚡ Fun fact **I love Learning New Things**
 
  </p>
  
- 
+
 
  <!--  <img aling="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="48%" height="300" /> -->
 
- 
  </div>
 
 <!----------------------------------------------------- Languages and Tools --------------------------------------------------------->
+
 ## 🚀 Languages and Tools:
+
 <div >
  <div ><h2>Frontend</h2>
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
@@ -53,8 +52,8 @@
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  align="center" alt="bootstrap" />
  <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
  <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUp5JJMa306NoNkeo4YhwcaN0aQq_08iiA2A&usqp=CAU" width="191" heigth="28" align="center" alt="tailwind_css"/>
+ <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>  
 </div>
 
@@ -63,3 +62,32 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
 
+
+ </div>
+  <div ><h2>Tools</h2> 
+   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="netlify"/>
+   <img src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png"  align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+   <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
+   <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+   <img src="https://www.gstatic.com/devrel-devsite/prod/veced1430215d0a0c094ac0570f79b1e47a9902cf6b60d19f36522e018b212f9e/firebase/images/lockup.svg"  align="center" alt="firebase"/>
+ </div>
+</div>
+
+<!----------------------------------------------------- All Skills Grid Formate --------------------------------------------------------->
+
+<br/>
+<!-- ----------------------------------------------------------------------------------<br/>
+<br/>
+<img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" align="center">
+<br />
+<br />------------------------------------------------------------------------------- -->             
+<br>
+
+
+
+
+ <!----------------------------------------------------- Let's Connect --------------------------------------------------------->                                        
+ 
+ 
