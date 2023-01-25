@@ -86,9 +86,7 @@
 
  <!----------------------------------------------------- Let's Connect --------------------------------------------------------->
 
-<div><video width="50" height="30" autoplay loop>
-  <source src="https://firebase.google.com/static/images/homepage/Firebase_Hero_Intro_1440x735.webm" type="video/webm">
-</video> <div/>
+<div><h2> 🌐 Connect</h2> <div/>
 <br/>
 <p align="left">
 <a href = "https://www.linkedin.com/in/satnamsinghrandhawa/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -101,3 +99,6 @@
  <br/>   
  
   <!------------------------------------------------------------My Github Stats------------------------------------------------------------------------->
+<video width="50" height="30" autoplay loop>
+  <source src="https://firebase.google.com/static/images/homepage/Firebase_Hero_Intro_1440x735.webm" type="video/webm">
+</video> 
