@@ -99,6 +99,8 @@
  <br/>   
  
   <!------------------------------------------------------------My Github Stats------------------------------------------------------------------------->
-<video width="50" height="30" autoplay loop>
+  <div>
+<video width="100" height="70" autoplay loop>
   <source src="https://firebase.google.com/static/images/homepage/Firebase_Hero_Intro_1440x735.webm" type="video/webm">
 </video> 
+  </div>
