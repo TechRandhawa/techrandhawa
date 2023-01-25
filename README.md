@@ -117,9 +117,9 @@
  <img align="right" alt="sonuprasad66's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sonuprasad66&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="48%"/> 
  
 <div> -->
- <!----------------------------------------------------------------------------------------------------------------------------------------->
+<!--  <!----------------------------------------------------------------------------------------------------------------------------------------->
  
 <br/>
 <br/>
 
-[![Satnam Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=techrandhawa)](https://github.com/techrandhawa/github-readme-stats)
+[![Satnam Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=techrandhawa)](https://github.com/techrandhawa/github-readme-stats) -->
