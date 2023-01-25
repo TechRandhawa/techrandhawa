@@ -68,7 +68,7 @@
    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
    <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-   <img src="https://www.gstatic.com/devrel-devsite/prod/veced1430215d0a0c094ac0570f79b1e47a9902cf6b60d19f36522e018b212f9e/firebase/images/lockup.svg" width="96" heigth="18" text-color="#0000" align="center" alt="firebase"/>
+   <img src="https://www.gstatic.com/devrel-devsite/prod/veced1430215d0a0c094ac0570f79b1e47a9902cf6b60d19f36522e018b212f9e/firebase/images/lockup.svg" width="96" heigth="18" align="center" alt="firebase"/>
    <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
  </div>
@@ -85,3 +85,19 @@
 <br>
 
  <!----------------------------------------------------- Let's Connect --------------------------------------------------------->
+
+<div><video width="50" height="30" autoplay loop>
+  <source src="https://firebase.google.com/static/images/homepage/Firebase_Hero_Intro_1440x735.webm" type="video/webm">
+</video> <div/>
+<br/>
+<p align="left">
+<a href = "https://www.linkedin.com/in/satnamsinghrandhawa/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "mailto:satnamrandhawa388@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://satnamsinghrandhawa.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio%201.0-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>
+<a href="https://firebasestorage.googleapis.com/v0/b/my-cv-portfolio.appspot.com/o/resume%2FSatnamSingh.pdf?alt=media&token=18661a67-c0b8-4150-b12a-82e1ffd45e7e" ><img src="https://img.shields.io/badge/Resume%201.0-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/></a>
+ 
+</p>
+                                                                                                                       
+ <br/>   
+ 
+  <!------------------------------------------------------------My Github Stats------------------------------------------------------------------------->
