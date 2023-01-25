@@ -104,22 +104,4 @@
   </div> -->
  
   <!------------------------------------------------------------My Github Stats------------------------------------------------------------------------->
-  ## 📊 My Github Stats
-   <br/>   
-    <!-- <p align="center">      
-  <a href="https://github.com/sonuprasad66/github-readme-stats"><img alt="Satnam Singh's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonuprasad66&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-      </p>
-  <br/>
  
-<div>
-  <img  aling="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sonuprasad66's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sonuprasad66&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"  width="48%"/>
- 
- <img align="right" alt="sonuprasad66's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sonuprasad66&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="48%"/> 
- 
-<div> -->
- <!----------------------------------------------------------------------------------------------------------------------------------------->
- 
-<br/>
-<br/>
-
-[![Satnam Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=techrandhawa)](https://github.com/techrandhawa/github-readme-stats)
