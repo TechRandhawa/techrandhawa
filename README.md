@@ -65,7 +65,7 @@
  </div>
   <div ><h2>Tools</h2> 
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="netlify"/>
-   <img src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png" width="96" heigth="15" align="center" alt="git"/>
+   <img src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png" width="96" heigth="12" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
    <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
    <img src="https://www.gstatic.com/devrel-devsite/prod/veced1430215d0a0c094ac0570f79b1e47a9902cf6b60d19f36522e018b212f9e/firebase/images/lockup.svg" width="96" heigth="18"  align="center" alt="firebase"/>
